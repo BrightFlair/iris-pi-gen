@@ -1,6 +1,6 @@
-# pi-gen
+# iris-pi-gen
 
-_Tool used to create the raspberrypi.org Raspbian images_
+_Tool used to create the Iris Media Raspbian images_, based on [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen)
 
 
 ## Dependencies
